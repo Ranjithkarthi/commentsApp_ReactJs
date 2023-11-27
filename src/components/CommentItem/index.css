@@ -1,0 +1,81 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+/* Write your CSS here */
+
+.each-list {
+  list-style-type: none;
+}
+
+.comment-align {
+  display: flex;
+}
+.initial-align {
+  height: 32px;
+  width: 32px;
+  text-align: center;
+  padding-top: 4px;
+  border-radius: 16px;
+  margin-right: 6px;
+  color: #fff;
+  font-weight: bold;
+}
+.name {
+  font-weight: bold;
+}
+.mins-ago {
+  font-weight: normal;
+  color: #7e858e;
+}
+
+.like-dlt-btn-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.like-btn-container {
+  background: transparent;
+  border: none;
+  display: flex;
+  align-items: center;
+}
+
+.dlt-btn {
+  background: transparent;
+  border: none;
+}
+
+.like-color {
+  color: #0b69ff;
+}
+
+.hr-line {
+  width: 100%;
+  border: 1px solid #000;
+  margin-bottom: 24px;
+}
